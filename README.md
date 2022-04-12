@@ -1,2 +1,2 @@
-# my-study-manager-repo
-Repositório para gerenciamento de estudos em desenvolvimento de software
+# Gerenciamento de Estudos
+Repositório para gerenciamento de estudos em desenvolvimento de software.
